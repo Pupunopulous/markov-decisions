@@ -18,6 +18,7 @@ IMPORTANT: Order of these arguments does not matter
 
 #### Required command line arguments:
 1. input - A graph file must be passed as input to calculate the optimal policy
+   
 File must be of the format "$input$.txt"
 
 #### Optional command line arguments:
