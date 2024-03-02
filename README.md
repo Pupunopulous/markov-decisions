@@ -1,4 +1,4 @@
-# Minimax Algorithm Implementation
+# Simulating Markov Decision Processes
 
 ### Author: 
 Rahi Krishna / rk4748
@@ -17,7 +17,7 @@ java mdp {arg1 arg2 arg3 ...}
 IMPORTANT: Order of these arguments does not matter
 
 #### Required command line arguments:
-1. input - A graph file must be passed as input to calculate the optimal policy
+1. `$input$` - A graph file must be passed as input to calculate the optimal policy
    
 File must be of the format "$input$.txt"
 
